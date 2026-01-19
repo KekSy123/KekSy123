@@ -13,7 +13,7 @@ You can check out my 3D modeling YouTube channel,
 where I share basic tutorials and document my modeling journey.
 ### [▶️ Simple Graphics — YouTube](https://www.youtube.com/@SimpleGraphic.s)
 Here you can check out my 3D model showcases — they’re downloadable and free to use:
-### [🧊 Simple Graphics — SketchFab](https://www.youtube.com/@SimpleGraphic.s):
+### [🧊 3D Models — SketchFab](https://www.youtube.com/@SimpleGraphic.s)
 
 ## 🎮 My Gaming YouTube channel 
 
