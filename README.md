@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Luka and I’m a CS graduate from the University of Maribor.  
-I enjoy programming microcontrollers, 3D modeling, video editing, photo editing, and thumbnail design.  
+I enjoy programming microcontrollers, 3D modeling, video & photo editing, and thumbnail design.  
 Gaming sneaks into my world from time to time too :D.
 
 You can check out some of my work below:
