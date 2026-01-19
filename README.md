@@ -5,8 +5,6 @@ Gaming sneaks into my world from time to time too :D.
 
 You can check out some of my work below:
 
----
-
 ## 🛠️ Coding & Dev
 
 ## My 3D modeling 🧊  
