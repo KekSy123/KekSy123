@@ -17,7 +17,7 @@ where I share basic tutorials and document my modeling journey.
 Here you can check out my 3D model showcases — they’re downloadable and free to use:
 ### [🧊 Simple Graphics — SketchFab](https://www.youtube.com/@SimpleGraphic.s):
 
-## My Gaming yt channel 🎮
+## My Gaming YouTube channel 🎮
 
 I also run a gaming channel with my friend, where we post chill montages and stream highlights:
 ### [▶️ Wave — YouTube](https://www.youtube.com/@wave7476)
