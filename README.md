@@ -6,11 +6,11 @@ Gaming sneaks into my world from time to time too :D.
 You can check out some of my work below:
 
 ## 🛠️ Coding & Dev
-Unity **RPG game** I created as part of my high‑school diploma.
 ### [🗡️ Unity RPG](https://github.com/KekSy123/basic-unity-rpg)
+Unity **RPG game** I created as part of my high school diploma.
 
-**Road curb detection self driving car** project using real world **LiDAR data**, **machine learning**, **embedded control**, and a **custom 3D simulation** built as part of our CS University diploma.
 ### [🚗 Curb Detection Car](https://github.com/blopAI/Project)
+**Road curb detection self driving car** project using real world **LiDAR data**, **machine learning**, **embedded control**, and a **custom 3D simulation** built as part of our CS University diploma.
 
 ## 🧊 My 3D Modeling Journey:
 You can check out my 3D modeling YouTube channel, 
