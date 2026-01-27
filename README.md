@@ -24,4 +24,3 @@ Here you can check out my 3D model showcases — they’re downloadable and free
 I also run a gaming channel with my friend, where we post chill montages and stream highlights:
 ### [▶️ Wave — YouTube](https://www.youtube.com/@wave7476)
 ### [▶️ Wave — Twitch](https://www.twitch.tv/wave_l7)
-
